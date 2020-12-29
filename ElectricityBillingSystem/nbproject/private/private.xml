@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/model/Main.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/controller/PasswordConfirmationController.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/controller/DashboardController.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/model/GenerateBillData.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/controller/ResetPasswordController.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/test/test/Databse_ConnectorTest.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/test/test/CustomerDetailsControllerTest.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/test/test/GenerateBillControllerTest.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/controller/GenerateBillController.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/test/test/PasswordConfirmationControllerTest.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/test/test/TestRunner.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/model/Database_Connector.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/controller/NewCustomerController.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/test/test/LoginControllerTest.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/test/test/NewCustomerControllerTest.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/controller/CustomerDetailsController.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/controller/LoginController.java</file>
+            <file>file:/C:/Users/USER/Desktop/Electricity_Billing_System/ElectricityBillingSystem/src/controller/BKashController.java</file>
+        </group>
+    </open-files>
+</project-private>
